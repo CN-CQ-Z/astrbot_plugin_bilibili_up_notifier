@@ -3,5 +3,6 @@ description: 这是一个AstrBot的插件，用于检测B站UP主发布的新视
 version: '1.0.0'
 author: CN-CQ-Z
 main: main.py
+repo: https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier
 dependencies:
   - requests>=2.25.1
