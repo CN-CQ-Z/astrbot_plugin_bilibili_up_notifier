@@ -5,6 +5,3 @@ from .main import BilibiliUpNotifier
 
 # 确保模块正确导出插件类
 export = BilibiliUpNotifier
-
-# 使插件类在模块级别可见
-bilibili_up_notifier = BilibiliUpNotifier
